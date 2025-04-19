@@ -10,7 +10,7 @@ env:
   CPU: 'sm8650'
   FEIL: 'oneplus_ace5'
   CPUD: 'pineapple'
-  ANDROID_VERSION: 'android15'
+  ANDROID_VERSION: 'android14'
   KERNEL_VERSION: '6.1'
   KERNEL_NAME: '-android14-11-o-g09f33b98befa'
   KERNELSU_VARIANT: 'SukiSU-Ultra'
