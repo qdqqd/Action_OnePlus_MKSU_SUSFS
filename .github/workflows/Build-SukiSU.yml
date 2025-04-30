@@ -12,7 +12,7 @@ env:
   CPUD: 'pineapple'
   ANDROID_VERSION: 'android14'
   KERNEL_VERSION: '6.1'
-  KERNEL_NAME: '-android14-11-o-g09f33b98befa'
+  KERNEL_NAME: '-android14-11-o-想你了'
   KERNELSU_VARIANT: 'SukiSU-Ultra'
   KERNELSU_VERSION: 'main'
   SUSFS_ENABLED: '启用'
