@@ -12,12 +12,12 @@ env:
   CPUD: 'pineapple'
   ANDROID_VERSION: 'android14'
   KERNEL_VERSION: '6.1'
-  KERNEL_NAME: '-android14-11-o-g666666666666'
+  KERNEL_NAME: '-android14-11-o-chiyu'
   VFS: 'true' #启用 true  不启用 false
   BUILD_METHOD: 'gki'
   SUSFS_CI: 'true'
-  ZRAM: 'false'
-  KPM: 'false'
+  ZRAM: 'true'
+  KPM: 'true'
 
 jobs:
   build:
